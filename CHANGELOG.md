@@ -12,7 +12,7 @@
 
 ### Features
 
-* **redis:** update to go-redis/v7 and switch to redisqueue/v2 ([#11](https://github.com/robinjoseph08/go-pg-migrations/issues/11))
+* **redis:** update to go-redis/v8 and switch to redisqueue/v2 ([#11](https://github.com/robinjoseph08/go-pg-migrations/issues/11))
 
 
 <a name="v1.1.0"></a>
