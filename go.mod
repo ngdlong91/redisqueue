@@ -1,4 +1,4 @@
-module github.com/robinjoseph08/redisqueue/v2
+module github.com/ngdlong91/redisqueue
 
 go 1.12
 
@@ -6,9 +6,9 @@ require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/fatih/color v1.7.0 // indirect
 	github.com/git-chglog/git-chglog v0.0.0-20190611050339-63a4e637021f
-	github.com/go-redis/redis/v7 v7.3.0
 	github.com/go-redis/redis/v8 v8.4.8
 	github.com/imdario/mergo v0.3.7 // indirect
+	github.com/kr/pretty v0.1.0 // indirect
 	github.com/mattn/go-colorable v0.1.2 // indirect
 	github.com/mattn/goveralls v0.0.2
 	github.com/pborman/uuid v1.2.0 // indirect
@@ -18,5 +18,6 @@ require (
 	github.com/urfave/cli v1.20.0 // indirect
 	golang.org/x/tools v0.0.0-20190706070813-72ffa07ba3db // indirect
 	gopkg.in/AlecAivazis/survey.v1 v1.8.5 // indirect
+	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15 // indirect
 	gopkg.in/kyokomi/emoji.v1 v1.5.1 // indirect
 )
